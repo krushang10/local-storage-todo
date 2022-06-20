@@ -1,0 +1,28 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.todo-div {
+  min-height: 100vh;
+  background: skyblue;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.child-div {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 2rem;
+}
+
+
